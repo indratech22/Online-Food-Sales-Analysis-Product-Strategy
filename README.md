@@ -66,6 +66,9 @@ Based on the data analysis, here are the main findings and strategic recommendat
 3.  Open the `.ipynb` files using Google Colab.
 4.  Use Power BI Desktop to open the `.pbix` file and explore the data visually.
 
+## 📝 Note
+All data within this repository is designed to simulate specific scenarios for research and development purposes. The data does not refer to actual information or any specific parties.
+
 ---
 
 ## 📄 License
